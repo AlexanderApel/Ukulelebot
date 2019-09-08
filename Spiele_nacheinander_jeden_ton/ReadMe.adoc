@@ -4,7 +4,7 @@
 :Revision: version#
 :License: Public Domain
 
-= Project: {Project}
+= Play eacht tone
 
 Playing one after another every tone for our configuration.
 
