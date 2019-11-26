@@ -4,7 +4,7 @@
 :Revision: version#
 :License: Public Domain
 
-= Project: {MIDI test}
+= Project: MIDI test
 
 Tests if MIDI Input does Work
 
@@ -20,13 +20,10 @@ Upload the code contained in this sketch on to your board
 
 
 === License
-This project is released under a {MIT} License.
+This project is released under a MIT License.
 
 === Contributing
 To contribute to this project please contact me https://id.arduino.cc/alexanderapel
-
-=== BOM
-Add the bill of the materials you need for this project.
 
 
 === Help
